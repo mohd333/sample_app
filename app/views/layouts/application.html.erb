@@ -1,13 +1,34 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Gitcheckout</title>
+  <title>pakmusic</title>
   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
   <%= csrf_meta_tags %>
+  <script>
+
+     $("document").ready(function(){
+      $("#click").click(function(){
+
+          $("li").each(function(){
+
+              var n=$(this).css("display");
+              if(n=="none")
+              {$(this).fadeIn();}
+              else{$(this).fadeOut();}
+
+          });
+      });
+
+      $("#animateclick").click(function(){
+          $("#block").animate({height:'150px',width:'150px',opacity:'0.5'},function(){
+          alert("animation complete");}).slideUp(2000).slideDown(2000);
+       });
+   });
+
+  </script>
 </head>
 <body>
-ddddddd
 
 <%= yield %>
 

@@ -29,9 +29,9 @@
     </data-source>
     <data-source source="LOCAL" name="Rails gitcheckout: production" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="6ba9f74b-c100-4cc4-aa18-7ebfe3af53a1">
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql:sampledb2</jdbc-url>
-      <user-name>tenpearls</user-name>
-      <user-password>dfdedfcfdfc4dfdadfcfdfcbdfd8dfc6dfd9</user-password>
+      <jdbc-url>jdbc:postgresql://ec2-107-20-245-187.compute-1.amazonaws.com/d12o0mm3qlpqp</jdbc-url>
+      <user-name>hdgrxpgqytsqbl</user-name>
+      <user-password>dff5dff9dffadfdadf9edffcdffedf87dfe5df9edfe1df9adfd0dff3dfcddfeddfd3dfcedfe8dfe3dfdcdffddf93dff8dfe8dfcf</user-password>
       <libraries>
         <library>
           <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-driver-license.txt</url>

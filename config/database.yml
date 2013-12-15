@@ -16,6 +16,7 @@ development:
 
 production:
   adapter: postgresql
-  database: sampledb2
-  username: tenpearls
-  password: tenpearls
+  host: ec2-107-20-245-187.compute-1.amazonaws.com
+  database: d12o0mm3qlpqp
+  username: hdgrxpgqytsqbl
+  password: _SPp4VT-O4K0zYgGydBIvW9RBe

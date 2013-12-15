@@ -2,20 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f200a472-726c-4dfb-90d9-147ea37c8ef8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gitcheckout.iml" afterPath="$PROJECT_DIR$/.idea/gitcheckout.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.yml" afterPath="$PROJECT_DIR$/config/database.yml" />
     </list>
     <ignored path="gitcheckout.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="f200a472-726c-4dfb-90d9-147ea37c8ef8" time="1387082108034" ignored="false" />
     <file path="/application.html.erb" changelist="f200a472-726c-4dfb-90d9-147ea37c8ef8" time="1387023877033" ignored="false" />
     <file path="/Gemfile" changelist="f200a472-726c-4dfb-90d9-147ea37c8ef8" time="1387037834755" ignored="false" />
-    <file path="/database.yml" changelist="f200a472-726c-4dfb-90d9-147ea37c8ef8" time="1387037934575" ignored="false" />
+    <file path="/database.yml" changelist="f200a472-726c-4dfb-90d9-147ea37c8ef8" time="1387082760973" ignored="false" />
     <file path="/examples_controller.rb" changelist="f200a472-726c-4dfb-90d9-147ea37c8ef8" time="1387080449035" ignored="false" />
     <file path="/index.html.erb" changelist="f200a472-726c-4dfb-90d9-147ea37c8ef8" time="1387080460089" ignored="false" />
     <file path="/routes.rb" changelist="f200a472-726c-4dfb-90d9-147ea37c8ef8" time="1387080504476" ignored="false" />
@@ -43,13 +38,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="database.yml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="database.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/database.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="31" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1387080645698" expanded="true" signature="120:414" placeholder="development:" />
-              </folding>
+            <state line="21" column="38" selection-start="591" selection-end="591" vertical-scroll-proportion="0.9107612">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -58,9 +51,7 @@
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
             <state line="9" column="7" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1386397830828" expanded="true" signature="421:578" placeholder="#..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -103,10 +94,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="61" selection-start="320" selection-end="320" vertical-scroll-proportion="0.35695538">
+            <state line="8" column="61" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -138,8 +129,8 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/controllers/examples_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/examples/index.html.erb" />
-        <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/config/database.yml" />
       </list>
     </option>
   </component>
@@ -692,9 +683,7 @@
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="2" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1387080645698" expanded="true" signature="120:414" placeholder="development:" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -708,9 +697,7 @@
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="7" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1386397830828" expanded="true" signature="421:578" placeholder="#..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -730,15 +717,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1386397830828" expanded="true" signature="421:578" placeholder="#..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -765,18 +743,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.yml">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="31" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1387080645698" expanded="true" signature="120:414" placeholder="development:" />
-          </folding>
+        <state line="9" column="7" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="61" selection-start="320" selection-end="320" vertical-scroll-proportion="0.35695538">
+        <state line="8" column="61" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="38" selection-start="591" selection-end="591" vertical-scroll-proportion="0.9107612">
           <folding />
         </state>
       </provider>
